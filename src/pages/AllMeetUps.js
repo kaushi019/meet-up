@@ -31,8 +31,7 @@ function AllMeetUps(){
                 })}
             </ul>
         </section>
-    )
-
+    );
 }
 
 export default AllMeetUps;
